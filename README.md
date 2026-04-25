@@ -39,10 +39,10 @@ pip install pandas matplotlib openpyxl
 python uniqlo_sales_analysis.py
 ```
 **文件结构**
-├── uniqlo_sales_analysis.py    # 核心分析代码
-├── 优衣库销售数据.xlsx          # 原始数据
-├── 优衣库_清洗后数据.xlsx       # 清洗后数据
-├── 优衣库销售数据分析.xlsx      # 手动 Excel 透视分析报告
-├── uniqlo_sales.db              # SQLite 数据库
-├── 可视化图表/                  # 5 张核心分析图
-└── 优衣库销售数据可视化看板.pbix # Power BI 看板
+- uniqlo_sales_analysis.py    # 核心分析代码
+- 优衣库销售数据.xlsx          # 原始数据
+- 优衣库_清洗后数据.xlsx       # 清洗后数据
+- 优衣库销售数据分析.xlsx      # 手动 Excel 透视分析报告
+- uniqlo_sales.db              # SQLite 数据库
+- 可视化图表/                  # 5 张核心分析图
+- 优衣库销售数据可视化看板.pbix # Power BI 看板
